@@ -1,0 +1,17 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+*.tmp
+*.swp
+
+# Downloads / exports
+Downloads/
+onedrive_zip/
+
+# Secrets
+.env
+*.key
+*.pem

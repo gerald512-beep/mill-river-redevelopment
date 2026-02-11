@@ -3,15 +3,15 @@
 > Built from current repo notes + 2026-02-10 benchmark deck draft.  
 > **Important:** deck-derived claims still need source links/footnotes before final submission.
 
-| Jurisdiction / Case | Delivery Mode | Primary Storage Location | Storage Type | Runoff / Containment Controls | Regulatory Driver | Transferability to New Haven | Notes / Sources |
-|---|---|---|---|---|---|---|---|
-| **Connecticut (baseline)** | Vessel to Port of New Haven (assumed in project context) | Waterfront context in New Haven | Current state under review | MS4 SOPs for salt handling, runoff minimization, inspections; industrial stormwater controls; release-based cleanup exposure (effective Mar 2026) | CT MS4 permit + Industrial Stormwater GP + CT DEEP WQS + Release-Based Cleanup Regulations | **High relevance** (home context) | Repo: `SOURCE_OF_TRUTH.md`; deck slide on CT expectations |
-| **Duluth, MN** | Ship/barge to port terminals; municipal supply moved inland | Bulk at industrial port, day-to-day municipal inventory inland | Covered domes/sheds at inland yards | Impervious pad + controlled drainage + covered storage | Minnesota MS4 / state practice context | **High** (strong model for separating marine logistics from municipal storage) | Deck case slide (needs formal citations) |
-| **Red Wing, MN** | River barges | Waterfront handling/storage near river | Tarped + pad-based approach (as presented) | Pad + tarping; controls less robust than full enclosed model | Minnesota permit context | **Medium** (operationally similar but potentially higher residual risk) | Deck case slide (needs formal citations) |
-| **Green Bay/Howard, WI** | Ship/barge to port, then truck to inland municipal yards | Mixed: port inventory + inland municipal use | Covered storage in municipal setting | Impervious pad, drainage controls; Wisconsin requirement framing in deck | Wisconsin DOT Trans 277 framing in deck | **High** (hybrid logistics model) | Deck case slide (needs formal citations) |
-| **Massachusetts (state guidance row)** | TBD by municipality | Generally favors away-from-sensitive-water siting | Covered storage expectations in guidance | BMP-based controls (pad/cover/runoff management) | State road-salt storage guidance | **Medium-High** | Existing repo placeholder; needs confirmed source links |
-| **New York (state guidance row)** | TBD by municipality | Varies | Building/containment recommendations for salt storage | BMP + containment emphasis | NY DEC guidance | **Medium** | Existing repo placeholder; needs confirmed source links |
-| **Maine (state program row)** | TBD by municipality | Varies | Sand/salt storage program structures | Programmatic BMP controls | Maine DEP program guidance | **Medium** | Existing repo placeholder; needs confirmed source links |
+| Jurisdiction / Case | City context (PPT) | Regulatory Driver (PPT) | How salt arrives (PPT) | Where bulk salt is handled (PPT) | Municipal storage location (PPT) | Storage typology (PPT) | Surface / pad (PPT) | Core strategy (PPT) | Transferability to New Haven | Notes / Sources |
+|---|---|---|---|---|---|---|---|---|---|---|
+| **Connecticut (baseline)** | CT has no single explicit “salt storage law”; compliance is managed via permits/BMPs and outcomes | CT MS4 permit + Industrial Stormwater GP + CT water quality framework + release-based cleanup regime | Vessel-to-port pattern assumed in project context; then truck distribution to municipal use points | Port/waterfront bulk handling is the relevant baseline context for New Haven | Current New Haven municipal storage pattern under review (project still validating exact split) | Baseline condition under review; best-practice target is covered storage with SOP controls | CT guidance direction is toward impervious pad + runoff minimization/containment | Move from “permit paperwork only” to auditable operating controls + lower-waterfront exposure | **High relevance** (home case) | Repo: `SOURCE_OF_TRUTH.md`; deck slides 2–3; CT DEEP stormwater page |
+| **Duluth, MN** | ~85k residents; port city; stormwater drains to Lake Superior | Minnesota MS4 permit framing in deck | Ship/barge to Port of Duluth bulk terminals | Industrial port facilities | Day-to-day municipal inventory at inland DPW yards | Covered domes/sheds | Impervious pads with controlled drainage | Separate port logistics from municipal storage | **High** | Deck case slide (needs formal citations) |
+| **Red Wing, MN** | ~16k residents; Mississippi waterfront context | Minnesota MS4 permit framing in deck | River barge logistics | Waterfront handling/storage | Waterfront storage in case summary | Padding + tarping | Impervious pad (deck indicates possible controls) | River barges -> pad+tarp model | **Medium** | Deck case slide (needs formal citations) |
+| **Green Bay / Howard, WI** | Suburban municipality linked to Green Bay port logistics | Wisconsin Trans 277 framing in deck | Ship/barge to Green Bay, then truck to Howard | Port facilities for bulk + municipal inland yards | Day-to-day municipal inventory inland | Covered domes/sheds | Impervious pads with controlled drainage | Hybrid model: port intake + inland municipal storage | **High** | Deck case slide (needs formal citations) |
+| **Massachusetts (state guidance row)** | Waterfront and inland municipal contexts vary by city | State road-salt storage guidance | TBD by municipality | TBD | Generally favors away-from-sensitive-water siting | Covered storage expected in guidance | BMP-focused controls | Guidance-led compliance | **Medium-High** | Existing repo placeholder; source links to finalize |
+| **New York (state guidance row)** | Mixed municipal contexts | NY DEC guidance | TBD | TBD | Varies | Building/containment recommendations | BMP + containment emphasis | Guidance + permit compliance | **Medium** | Existing repo placeholder; source links to finalize |
+| **Maine (state program row)** | Mixed municipal contexts | Maine DEP program guidance | TBD | TBD | Varies | Sand/salt program structures | Programmatic BMP controls | Program-driven controls | **Medium** | Existing repo placeholder; source links to finalize |
 
 ## Pattern synthesis from current draft
 
@@ -24,3 +24,16 @@
 - Add one verifiable source per factual row (agency rule/guidance + retrieval date).
 - Add exact regulatory text snippets for CT MS4 / industrial permit clauses cited in deck.
 - Add source links for Duluth/Red Wing/Green Bay-Howard operational claims.
+
+## Sources (Connecticut-focused)
+
+1. CT DEEP Stormwater hub (MS4 + industrial permit program overview):  
+   https://portal.ct.gov/deep/water-regulating-and-discharges/stormwater
+2. EPA NPDES stormwater program overview (municipal/industrial framework):  
+   https://www.epa.gov/npdes/npdes-stormwater-program
+3. eCFR 40 CFR Part 122 (NPDES permit framework):  
+   https://www.ecfr.gov/current/title-40/chapter-I/subchapter-D/part-122
+4. FHWA snow & ice operations context (public-sector winter maintenance operating context):  
+   https://ops.fhwa.dot.gov/weather/weather_events/snow_ice.htm
+5. Internal project source:  
+   `/home/gerald512/projects/mill-river-redevelopment/SOURCE_OF_TRUTH.md`

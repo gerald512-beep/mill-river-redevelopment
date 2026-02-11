@@ -1,16 +1,20 @@
 # Status — Mill River Redevelopment
 
-**Current phase:** Benchmark planning + context analysis completed (Phase 1–5)
+**Current phase:** Benchmark analysis + recommendation drafting
 
-**Last update:** 2026-02-05
+**Last update:** 2026-02-10
 
 ## Recent outputs
 - Phase 1–5 context deliverable (DOCX)
-- Benchmark checklist + matrix draft
+- Benchmark checklist
+- Benchmark matrix upgraded to Draft v2 with case structure (`03-Analysis/Benchmark_Matrix.md`)
+- New recommendation draft with A/B/C options (`03-Analysis/Benchmark_Recommendations.md`)
 
 ## Next steps
-- Populate benchmark matrix with citations
+- Add citations/footnotes for all deck-derived factual claims
+- Validate regulatory references (CT, MN, WI, MA, NY, ME)
+- Align with Adam on preferred path and assumptions
 - Draft 1st benchmark memo (due next Friday)
 
 ## Blockers
-- None
+- Citation completeness (external sources still to attach)

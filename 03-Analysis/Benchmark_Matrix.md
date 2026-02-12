@@ -1,6 +1,7 @@
 # Benchmark Matrix — Salt Storage Near Water (Draft v3)
 
 > Reformatted for GitHub readability while preserving the PPT variable structure.
+> **Important:** For strict verifiability gating (problem + timeline + cost + downsides + compliance), see `03-Analysis/Benchmark_Verifiable_Filter.md`.
 
 ## Quick comparison (easy scan)
 

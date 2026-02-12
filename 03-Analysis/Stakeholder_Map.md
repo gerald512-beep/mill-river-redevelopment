@@ -85,3 +85,14 @@ Using the same structure style as the imported DOCX stakeholder section.
 [10] https://www.epa.gov/npdes/npdes-stormwater-program
 [11] https://www.epa.gov/newsreleases/biden-harris-administration-announces-nearly-40-million-clean-ports-investments
 [12] https://www.nae.usace.army.mil/Portals/74/docs/Topics/New%20Haven/2020/05-AppendixCEconomcisNewHavenHarborNavigationImprovementProject%20_FinalJanuary2020.pdf
+
+## Acronym glossary
+- **DEEP**: Connecticut Department of Energy and Environmental Protection.
+- **EAC**: Environmental Advisory Council (in this context, New Haven’s Environmental Advisory Council).
+- **EPA**: U.S. Environmental Protection Agency.
+- **USACE**: U.S. Army Corps of Engineers.
+- **SWPPP**: Stormwater Pollution Prevention Plan.
+- **NPDES**: National Pollutant Discharge Elimination System.
+- **EJ**: Environmental Justice.
+- **BMP**: Best Management Practices.
+- **CTR050000**: Connecticut Industrial Stormwater General Permit identifier.

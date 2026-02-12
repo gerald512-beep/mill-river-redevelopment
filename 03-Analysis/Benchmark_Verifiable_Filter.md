@@ -14,14 +14,12 @@ If any field is missing, case is excluded from the main benchmark and parked in 
 
 ## Screening results (requested cities included)
 
-| Case | Similarity to New Haven | Evidence of actual past relocation? | Problem trigger | Timeline | Cost | Downsides/tradeoffs | Regulatory/compliance context | Decision |
-|---|---|---|---|---|---|---|---|---|
-| Framingham, MA (MassDOT Project 611951) | High (depot + salt + stormwater/flooding driver) | **Partial** — relocation project is documented, but completion/closeout not yet verified [1] | **Yes** (flooding + stormwater controls at existing location) [1] | **Partial** (construction begins Summer 2022; end date not confirmed) [1] | **Yes** (bid price listed) [1] | **No (explicit)** | **Partial** (stormwater driver stated, but compliance closeout details not in source) [1] | **Exclude (for now)** |
-| Portland/South Portland, ME logistics context | Medium-High (port import + inland distribution dynamics) | **No verified municipal relocation record yet** [4] | **Partial** (winter logistics context, not a relocation trigger record) [4] | **No** | **Partial** (narrative pricing references) [4] | **No** | **No** | **Exclude** |
-| Watertown, MN salt storage facility (agenda packet) | Medium (municipal storage project) | **Partial** — new facility authorized, but relocation completion not confirmed [2] | **Partial** (identified need for new facility) [2] | **Yes** (dated council action July 2022) [2] | **Yes** (quote + total project cost + over-budget amount) [2] | **Yes** (over-budget and scope exclusions documented) [2] | **No (explicit)** | **Exclude (for now)** |
-| Green Bay transition reporting | Medium-High (waterfront commodity conflict + transition) | **Partial** — transition actions reported, full relocation completion unverified [5] | **Partial** [5] | **Partial** [5] | **No** | **Partial** [5] | **No (explicit)** | **Exclude** |
-| Saco, ME vendor relocation case | Medium | **Partial** — relocation claimed by vendor; independent closeout record not verified [6] | **Partial** [6] | **Partial** [6] | **No** | **No** | **No** | **Exclude** |
-| Duluth, MN | High (port city + municipal salt logic) | **No** — no verifiable source package yet [7] | **No (verified set incomplete)** | **No (verified set incomplete)** | **No** | **No** | **No** | **Exclude** |
+| Case | Similarity to New Haven | Available documents | Problem trigger | Timeline | Cost | Regulatory/compliance context |
+|---|---|---|---|---|---|---|
+| Framingham, MA (MassDOT Project 611951) | High (depot + salt + stormwater/flooding driver) | Relocation project is documented, but completion not yet verified [1] | Flooding and stormwater controls at existing location | Cconstruction began Summer 2022<br>End date not confirmed) | Construction bid price: $6M (depot relocation + office + salt sheds + brine tanks + park-and-ride/site work) | Stormwater driver stated, but compliance closeout details not in source |
+| Watertown, MN salt storage facility (agenda packet) | Medium (municipal storage project) | New facility authorized, but relocation completion not confirmed [2] | Identified need for new facility | Dated council action/Approval July 2022 | Estimate facility construction: 112K (600 ton. Salt storage building) | Pending |
+| Green Bay transition reporting | Medium-High (waterfront commodity conflict + transition) | Transition actions reported, full relocation completion unverified [5] | Pending | Pending | Pending | Pending |
+| Saco, ME vendor relocation case | Medium | Relocation claimed by vendor; independent closeout records not verified [6] | Pending | Pending | Pending | Pending |
 
 ---
 

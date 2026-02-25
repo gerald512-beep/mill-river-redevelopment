@@ -5,47 +5,9 @@ End-to-end process from municipal order planning through field spread operations
 
 ## Swimlane Diagram (Mermaid)
 
-```mermaid
-flowchart LR
-  subgraph City_of_New_Haven["City - Public Works"]
-    C1["Forecast demand and set minimum stock trigger"]
-    C2["Issue PO or release under contract"]
-    C3["Receive deliveries to municipal storage"]
-    C4["Dispatch to routes and spread"]
-    C5["Record usage, inspections, and reorder signals"]
-  end
+![Municipal Salt Supply and Compliance Flow (Eraser)](https://app.eraser.io/workspace/hp31iE1656EYGmOAptuX/preview?origin=share)
 
-  subgraph Supplier["Supplier / Producer"]
-    S1["Confirm allocation and quality spec"]
-    S2["Stage bulk salt at source or terminal"]
-    S3["Release shipment documents"]
-  end
-
-  subgraph Terminal["Terminal Operator"]
-    T1["Receive vessel, barge, or rail inbound"]
-    T2["Store and transload bulk inventory"]
-    T3["Load outbound trucks for municipal delivery"]
-  end
-
-  subgraph Transporter["Transporter"]
-    R1["Line-haul to terminal if needed"]
-    R2["Truck to municipal storage site"]
-    R3["Manage queues during storm peaks"]
-  end
-
-  subgraph Regulator["Regulator - EPA and CT DEEP permit framework"]
-    G1["Set stormwater permit obligations and BMP expectations"]
-    G2["Require SOP, inspection, and corrective-action evidence"]
-    G3["Enforce for discharge or permit failures"]
-  end
-
-  C1 --> C2 --> S1 --> S2 --> T1 --> T2 --> T3 --> R2 --> C3 --> C4 --> C5 --> C1
-  R1 --> T1
-  C3 -. compliance records .-> G2
-  T2 -. industrial stormwater controls .-> G2
-  C4 -. operational impacts and incident logs .-> G2
-  G1 --> G2 --> G3
-```
+Source (editable): https://app.eraser.io/workspace/hp31iE1656EYGmOAptuX?origin=share
 
 ## Step-by-step with evidence links
 

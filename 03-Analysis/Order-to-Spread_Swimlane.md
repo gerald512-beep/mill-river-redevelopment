@@ -3,9 +3,11 @@
 ## Scope
 End-to-end process from municipal order planning through field spread operations for a waterfront-influenced supply chain (City + terminal operator + supplier + transporter + regulator).
 
-## Swimlane Diagram (Mermaid)
+## Swimlane Diagram
 
-![Municipal Salt Supply and Compliance Flow (Eraser)](https://app.eraser.io/workspace/hp31iE1656EYGmOAptuX/preview?origin=share)
+> Preview tip: click the image to open the full-resolution interactive diagram in Eraser.
+
+[<img src="https://app.eraser.io/workspace/hp31iE1656EYGmOAptuX/preview?origin=share" alt="Municipal Salt Supply and Compliance Flow (Eraser)" width="1400" />](https://app.eraser.io/workspace/hp31iE1656EYGmOAptuX?origin=share)
 
 Source (editable): https://app.eraser.io/workspace/hp31iE1656EYGmOAptuX?origin=share
 

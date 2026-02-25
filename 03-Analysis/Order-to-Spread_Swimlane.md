@@ -43,7 +43,7 @@ Source (editable): https://app.eraser.io/workspace/hp31iE1656EYGmOAptuX?origin=s
   - Contract clauses (Incoterms, delivery SLA, emergency call-offs).
   - Local receiving/storage SOP details and inspection cadence.
 
-## Data fields to collect next (for Adam/Gerald)
+## Data fields to collect next
 
 - Contracting: supplier, unit price method, emergency delivery clauses.
 - Logistics: lead time, cutoff times, minimum drop size, surge constraints.

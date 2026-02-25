@@ -18,6 +18,15 @@ Using the same structure style as the imported DOCX stakeholder section.
 ### Enstructure / Gateway Terminal
 - **Why this likely interest classification:** Maintain centralized salt distribution role; preserve ship-barge-truck-rail connectivity; limit capex and operational disruption; protect permit coverage and reputation.
 - **Why this influence level (High):** Named in DEEP hearing context as the operating salt-pile entity under industrial stormwater permit discussions; corporate materials emphasize multimodal logistics and New Haven rail investment. The practical levers include operational control of stockpiles; swppp/bmp execution; capital investment decisions; contract terms with municipal buyers and transporters.
+
+- **Connecticut Enstructure terminal comparison (from Northeast network page):**
+
+| Terminal | Location | Modal profile | Scale / capacity highlights | Strategic role for Mill River context |
+|---|---|---|---|---|
+| Enstructure New Haven | New Haven, CT | Ship + barge + truck + rail (G&W, NS, CSX, CN) | 84 acres, 4,500 ft quay, 3 vessel + 1 barge berths, 35 ft depth, 420,000 sq ft warehousing, ~60 acres outdoor storage | Primary integrated deepwater node for bulk distribution; strongest fit for centralized deicing-salt logistics and multimodal continuity. |
+| Enstructure New London | New London, CT | Marine terminal + truck + rail (G&W/NECR) | 40 acres, 2 berths, 38 ft depth, 105,000 sq ft warehousing, heavy crawler cranes | Offshore-wind-focused hub with heavy-lift capability; relevant as regional capacity signal but less direct to salt-pile operations than New Haven. |
+| Enstructure Montville | Montville, CT | Tri-modal barge + truck + rail (G&W/NECR) | 22 acres, 1 berth, 20 ft depth, barge-terminal profile | Secondary inland-linked node connected to Thames corridor; supports breakbulk/project flows and potential overflow/relay functionality. |
+
 - **Verified sources:**
   - https://portal.ct.gov/-/media/deep/adjudications/hearing-officer-reports/20251029-industrial-general-permit-ctr05000093-hor.pdf
   - https://enstructure.com/network/northeast/
